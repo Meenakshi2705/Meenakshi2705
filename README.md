@@ -3,18 +3,17 @@
 🚀 **Aspiring Software Engineer | AI & Web Developer | Problem Solver**  
 
 💡 Passionate about building AI-driven applications and web solutions that create real impact.  
-📚 Exploring **AI, NLP, MERN, and Cloud** while preparing for placements.  
-🌱 Currently improving **DSA, Aptitude, and System Design** for interviews.  
-
+🎓 Final-year student | Interested in **AI, Web Development, and Cloud**  
+💻 I like building projects in **Java, Python, and MERN stack**  
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Java, Python, SQL, JavaScript  
+- **Languages**: Java, Python, SQL 
 - **Web**: HTML, CSS, React, Node.js, Express.js, TailwindCSS  
 - **AI/ML**: Mistral LLM, LangChain, NLP, RAG, BERT  
 - **Databases**: MySQL, MongoDB  
 - **Cloud**: AWS, IBM Cloud  
-- **Tools**: Git, GitHub, VS Code, Docker  
+- **Tools**: Git, GitHub, VS Code
 
 ---
 
