@@ -23,6 +23,7 @@
 🔹 [Fake News Detection](https://github.com/Meenakshi2705/Fakenews_prediction) – NLP-based fake news classifier  
 🔹 [Netflix Clone](https://github.com/Meenakshi2705/Netflix_Clone) – Frontend replica using HTML & CSS  
 🔹 [Weather Website](https://github.com/Meenakshi2705/Weather_website) – Real-time weather updates  
+🔹 [Animal Disease Prediction](https://github.com/Meenakshi2705/Animal_disease_prediction) – BERT-based Veterinary Disease Predictor
 
 ---
 
