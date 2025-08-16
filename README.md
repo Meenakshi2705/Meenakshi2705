@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Software Engineer | AI & Web Developer | Problem Solver**  
 
-💡 Passionate about building AI-driven applications and web solutions that create impact.  
+💡 Passionate about building AI-powered applications and impactful web solutions  
 🎓 Final-year student | Interested in **AI, Web Development, and Cloud**  
 💻 I like building projects in **Java, Python, and MERN stack**  
 ---
