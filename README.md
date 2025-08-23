@@ -23,6 +23,7 @@
 🔹 [Fake News Detection](https://github.com/Meenakshi2705/Fakenews_prediction) – NLP-based fake news classifier  
 🔹 [Weather Website](https://github.com/Meenakshi2705/Weather_website) – Real-time weather updates  
 🔹 [Animal Disease Prediction](https://github.com/Meenakshi2705/Animal_disease_prediction) – BERT-based Veterinary Disease Predictor
+🔹 [Wordpress back to top plugin](https://github.com/Meenakshi2705/wordpress-back-to-top-plugin) –  Adds a floating “Back to Top” button on every page
 
 ---
 
